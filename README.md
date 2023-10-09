@@ -1,4 +1,4 @@
-# Bases de ANGULAR loco
+# Bases de ANGULAR Expandidas
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
 
